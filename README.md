@@ -1,95 +1,66 @@
-<h1 align="center">ModUwUlar</h1>
+<h1 align="center">modular <3</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Systems+Engineer;Modular+Architecture+Explorer;Runtime+Framework+Developer;Building+Strange+Infrastructure">
+built different.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=modular442&label=profile+views&color=00ff9c&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/Modular-Content">
-<img src="https://img.shields.io/badge/organization-Modular_Content-111111?style=for-the-badge&logo=github">
-</a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/environment-linux-111111?style=for-the-badge&logo=linux">
+<s><a href="https://modularcontent.dev">Website</a> •
+<a href="https://wiki.modularcontent.dev">Wiki</a> •
+<a href="https://forum.modularcontent.dev">Forum</a></s> -- currently dead ;(
 </p>
 
 ---
 
-# About
+<div align="center">
 
-I design and build experimental software systems and infrastructure.
+### ⚙️ STACK
 
-Areas of interest:
+</div>
 
-- modular architecture
-- distributed infrastructure
-- runtime frameworks
-- reverse engineering
-- developer tooling
+<div align="center">
 
-Most work lives inside the **Modular Content ecosystem**.
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua"/>
+<img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"/>
 
----
+<br/>
 
-# Ecosystem
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp"/>
 
-### Modular Content
+<br/>
 
-Creative technology ecosystem exploring modular software systems and infrastructure.
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust"/>
 
-https://github.com/Modular-Content
+<br/>
 
-Active projects:
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift"/>
 
-- **ModRelay** — event relay infrastructure  
-- **ModularWork** — runtime framework for Garry's Mod schemas
+<br/>
 
----
+<img src="https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Haskell-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lisp-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fortran-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COBOL-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/F%23-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elixir-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scala-0d1117?style=for-the-badge"/>
 
-# Terminal
+<br/>
 
-```text
-$ whoami
-modular442
+<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell"/>
 
-$ focus
-systems architecture
-runtime environments
-distributed infrastructure
-
-$ current_status
-building modular systems
-
-$ philosophy
-if a system cannot be explained
-it is already broken
-````
-
----
-
-# Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=modular442&theme=github-dark&hide_border=true">
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://github.com/modular442/modular442/blob/output/github-snake-dark.svg">
-</p>
-
----
-
-# Philosophy
-
-> Systems should be modular, deterministic, and explainable.
-
-If a system works but cannot be explained, it is already broken.
+</div>
