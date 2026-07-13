@@ -5,9 +5,9 @@ built different.
 </p>
 
 <p align="center">
-<s><a href="https://modularcontent.dev">Website</a> •
+<a href="https://modularcontent.dev">Website</a> •
 <a href="https://wiki.modularcontent.dev">Wiki</a> •
-<a href="https://forum.modularcontent.dev">Forum</a></s> -- currently dead ;(
+<a href="https://forum.modularcontent.dev">Forum</a>
 </p>
 
 ---
