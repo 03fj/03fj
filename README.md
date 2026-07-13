@@ -1,4 +1,4 @@
-<h1 align="center">modulyx</h1>
+<h1 align="center">modular</h1>
 
 <p align="center">
 built different.
